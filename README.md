@@ -5,6 +5,7 @@
 
 * Here are my links:
     * Portfolio: https://mochahadeh.github.io/
+    * LinkedIn: https://Linkedin.com/in/mohamad-chahadeh
     * Twitter: https://twitter.com/MoChahadeh/
 
 ### Cheers!
