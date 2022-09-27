@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Mohamad Chahadeh.
-- I'm currently studying Software Engineering at Üsküdar University, Istanbul.
+- I'm currently studying Computer Engineering at Istanbul Technical University.
 
 - I'm mostly interested in Back-End Development and Machine Learning, but I've also got a firm grasp on many other fields like Front-End and Mobile Development.
 
