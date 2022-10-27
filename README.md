@@ -4,7 +4,7 @@
 - I'm mostly interested in Back-End Development and Machine Learning, but I've also got a firm grasp on many other fields like Front-End and Mobile Development.
 
 * Here are my links:
-    * Portfolio: https://mochahadeh.github.io/
+    * Portfolio: https://mochahadeh.com/
     * LinkedIn: https://Linkedin.com/in/mohamad-chahadeh
     * Twitter: https://twitter.com/MoChahadeh/
 
