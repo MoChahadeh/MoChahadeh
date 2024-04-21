@@ -8,7 +8,8 @@
     * LinkedIn: https://Linkedin.com/in/mohamad-chahadeh
     * Twitter: https://twitter.com/MoChahadeh/
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoChahadeh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MoChahadeh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoChahadeh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="MoChahadeh" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoChahadeh&show_icons=true&theme=tokyonight&locale=en" alt="MoChahadeh" /></p>
 
