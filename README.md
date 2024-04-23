@@ -28,10 +28,10 @@ a Computer Engineering Student at <a href="https://itu.edu.tr/">Istanbul Technic
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://MoChahadeh.com/)]
-[![](https://img.shields.io/badge/-Chat%20App-000?&logo=iMessage)](https://chat.mochahadeh.com/)]
-[![](https://img.shields.io/badge/-Online%20Chess-000?&logo=Knight)](https://chess.mochahadeh.com/)]
-[![](https://img.shields.io/badge/-Virtual%20Piano-000?&logo=iMessage)](https://piano.mochahadeh.com/)]
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://MoChahadeh.com/)
+[![](https://img.shields.io/badge/-Chat%20App-000?&logo=iMessage)](https://chat.mochahadeh.com/)
+[![](https://img.shields.io/badge/-Online%20Chess-000?&logo=Knight)](https://chess.mochahadeh.com/)
+[![](https://img.shields.io/badge/-Virtual%20Piano-000?&logo=iMessage)](https://piano.mochahadeh.com/)
 <!--[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
 [![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
