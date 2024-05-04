@@ -9,6 +9,7 @@ a Computer Engineering Student at <a href="https://itu.edu.tr/">Istanbul Technic
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C%23&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
