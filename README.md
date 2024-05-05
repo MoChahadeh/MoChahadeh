@@ -26,6 +26,7 @@ a Computer Engineering Student at <a href="https://itu.edu.tr/">Istanbul Technic
 ![SKLearn](https://img.shields.io/badge/-sklearn-000?&logo=scikitlearn)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Unity](https://img.shields.io/badge/-Unity-000?logo=unity)
 
 ### Full Stack Projects
 
@@ -44,5 +45,5 @@ a Computer Engineering Student at <a href="https://itu.edu.tr/">Istanbul Technic
 ![](https://komarev.com/ghpvc/?username=MoChahadeh&color=06223d&abbreviated=true%style=flat)
 <br>
 <a href="https://mochahadeh.com/">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MoChahadeh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&text_color=4988c4&icon_color=4988c4&bg_color=06223d&theme=white" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoChahadeh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=4988c4&icon_color=4988c4&bg_color=06223d&theme=graywhite" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MoChahadeh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&text_color=4988c4&icon_color=4988c4&bg_color=06223d&theme=white" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoChahadeh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=Seerah-Unity,Redventures-Movie-Quotes&text_color=4988c4&icon_color=4988c4&bg_color=06223d&theme=graywhite" /></a>
 
