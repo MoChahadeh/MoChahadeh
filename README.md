@@ -17,11 +17,12 @@ a Computer Engineering Student at <a href="https://itu.edu.tr/">Istanbul Technic
 
 ### Technologies
 
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
 ![SKLearn](https://img.shields.io/badge/-sklearn-000?&logo=scikitlearn)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
