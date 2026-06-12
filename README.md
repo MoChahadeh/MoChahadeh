@@ -46,5 +46,5 @@ a Computer Engineering Student at <a href="https://itu.edu.tr/">Istanbul Technic
 ![](https://komarev.com/ghpvc/?username=MoChahadeh&color=06223d&abbreviated=true%style=flat)
 <br>
 <a href="https://mochahadeh.com/">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MoChahadeh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=4988c4&icon_color=4988c4&bg_color=06223d&theme=white" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoChahadeh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=Seerah-Unity,Redventures-Movie-Quotes&text_color=4988c4&icon_color=4988c4&bg_color=06223d&theme=graywhite" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MoChahadeh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=4988c4&icon_color=4988c4&bg_color=06223d" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoChahadeh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=Seerah-Unity,Redventures-Movie-Quotes&text_color=4988c4&icon_color=4988c4&bg_color=06223d&theme=graywhite" /></a>
 
