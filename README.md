@@ -1,2 +1,8 @@
 # mocha
-A newly-graduated Full-Stack Systems Engineer, with a recently growing particular interest in FOSS, Privacy, Cybersecurity, Cryptography, and other related topics.
+an everything engineer..
+
+## Recent Obsessions
+- FOSS
+- privacy-focused solutions
+- cryptography
+- self-hosting
